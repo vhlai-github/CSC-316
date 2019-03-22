@@ -1,0 +1,8 @@
+X is T's child.
+C is H's child.
+H is T's parent.
+X is Z's sibling.
+R is P's sibling.
+C is R's parent.
+H is P's grandparent.
+H, T, C, X, Z, R, P.
